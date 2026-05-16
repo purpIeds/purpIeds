@@ -1,4 +1,7 @@
-
+ <p align="center">
+   <img src="https://files.catbox.moe/ocj6qg.png"
+   [image alt](https://files.catbox.moe/ocj6qg.png)
+    </p>
 
 <!--
 **purpIeds/purpIeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
