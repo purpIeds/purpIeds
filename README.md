@@ -1,8 +1,18 @@
+<div align="center">
+ 
+![Visitor_Count](https://visitor-badge.laobi.icu/badge?page_id=purpIeds&left_text=<3&right_color=9d4677)
+ 
+</div>
+ 
  <p align="center">
    <img src="https://files.catbox.moe/ocj6qg.png"
    [image alt](https://files.catbox.moe/ocj6qg.png)
     </p>
 
+
+ <p align="center">
+all art shown is by @qiuparo on twt
+    </p>
 <!--
 **purpIeds/purpIeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
