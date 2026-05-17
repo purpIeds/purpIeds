@@ -1,8 +1,4 @@
-<div align="center">
- 
-![Visitor_Count](https://visitor-badge.laobi.icu/badge?page_id=purpIeds&left_text=<3&right_color=9d4677)
- 
-</div>
+
  
  <p align="center">
    <img src="https://files.catbox.moe/ocj6qg.png"
